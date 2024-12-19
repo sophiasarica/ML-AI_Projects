@@ -1,2 +1,2 @@
-# ML-AI_Projects
+# ML/AI_Projects
 Personal ML/AI Projects
